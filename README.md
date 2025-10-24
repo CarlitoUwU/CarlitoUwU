@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="300px" alt="Coding Guy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29rcHp0eGw1M2podGQwZW84dHRxc3lsdGdiMXhxbm9peWhlZjc2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+<img align="right" width="300px" style="margin-left: 25px;" alt="Coding Guy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29rcHp0eGw1M2podGQwZW84dHRxc3lsdGdiMXhxbm9peWhlZjc2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
