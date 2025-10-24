@@ -10,11 +10,10 @@
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="300px" alt="Coding Guy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29rcHp0eGw1M2podGQwZW84dHRxc3lsdGdiMXhxbm9peWhlZjc2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
-<img align="right" width="300px" hspace="20" alt="Coding Guy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29rcHp0eGw1M2podGQwZW84dHRxc3lsdGdiMXhxbm9peWhlZjc2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<span>
 I’m a **Systems Engineering student** at the **Universidad Nacional de San Agustín (UNSA)** currently in my 4th year.  
 I’m passionate about **programming, solving problems, and automating processes** to bring creative ideas to life.  
 
